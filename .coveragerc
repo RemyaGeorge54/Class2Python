@@ -4,3 +4,4 @@ omit =
     test/*
     # omit anything in a .local directory anywhere
     */__init__.py
+    adadasdads
